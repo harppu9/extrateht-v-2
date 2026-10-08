@@ -60,6 +60,12 @@ Tässä on myös `koodia tekstin sisällä`.
 ```javascript
 console.log("Hei WebAssembly!");
 ```
+### Tehtävälista
+
+- [x] Luo repository
+- [x] Luo Markdown-tiedosto
+- [ ] Julkaise
+
 
 ## Hyödyllisiä linkkejä
 
