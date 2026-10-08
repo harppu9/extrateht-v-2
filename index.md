@@ -30,10 +30,6 @@ Tällä sivulla käytetään useita GitHub Flavored Markdownin ominaisuuksia.
 
 Tekstin muotoilu
 
-Tämä on lihavoitua tekstiä.
-
-Tämä on kursivoitua tekstiä.
-
 Tässä on myös koodia tekstin sisällä.
 
 Lista
