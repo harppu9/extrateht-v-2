@@ -1,62 +1,59 @@
-# 🖥️ x86-emulaattori selaimessa
+🖥️ x86-emulaattori selaimessa
+Mikä on x86-emulaattori?
 
-## Mikä on x86-emulaattori?
+x86-emulaattorin avulla voidaan jäljitellä x86-arkkitehtuurilla toimivaa tietokonetta selaimessa.
 
-x86-emulaattorin avulla voidaan suorittaa x86-arkkitehtuurille tarkoitettuja ohjelmia selaimessa.
+Tässä projektissa tutustun v86-emulaattoriin, joka hyödyntää JavaScriptiä ja WebAssemblya.
 
-Tässä projektissa tutustun **v86-emulaattoriin**, joka käyttää WebAssemblya ja JavaScriptiä.
+Emulaattorin avulla tietokonejärjestelmää voidaan jäljitellä toisessa ympäristössä.
 
-> Emulaattorin avulla tietokonejärjestelmää voidaan jäljitellä toisessa ympäristössä.
+v86
 
-## v86
+v86 on selaimessa toimiva x86-emulaattori.
 
-[v86](https://copy.sh/v86/) on selainpohjainen x86-emulaattori.
+Sen avulla voidaan käynnistää erilaisia käyttöjärjestelmiä ja kokeilla tietokoneohjelmia suoraan selaimessa.
 
-Sillä voidaan esimerkiksi käynnistää erilaisia käyttöjärjestelmiä ja kokeilla tietokoneohjelmia suoraan selaimessa.
+Kokeile emulaattoria
 
-### Kokeile emulaattoria
+👉 Avaa v86-emulaattori
 
-👉 **[Avaa v86 x86-emulaattori](https://copy.sh/v86/)**
+Käytetyt teknologiat
+Teknologia	Käyttötarkoitus
+GitHub Pages	Verkkosivun julkaiseminen
+Markdown	Sivun sisällön kirjoittaminen
+JavaScript	Selainohjelmointi
+WebAssembly	Ohjelmakoodin suorittaminen
+v86	x86-emulointi
+Markdown-ominaisuuksia
 
-## Mitä projektissa käytetään?
+Tällä sivulla käytetään useita GitHub Flavored Markdownin ominaisuuksia.
 
-| Teknologia   | Käyttötarkoitus               |
-| ------------ | ----------------------------- |
-| GitHub Pages | Verkkosivun julkaiseminen     |
-| Markdown     | Sivun sisällön kirjoittaminen |
-| JavaScript   | Emulaattorin toiminta         |
-| WebAssembly  | Tehokas koodin suorittaminen  |
-| v86          | x86-emulaatio                 |
+Tekstin muotoilu
 
-## Markdown-ominaisuuksia
+Tämä on lihavoitua tekstiä.
 
-Tällä sivulla käytetään useita GitHub Flavored Markdownin ominaisuuksia:
+Tämä on kursivoitua tekstiä.
 
-* **Lihavointi**
-* *Kursivointi*
-* [Linkit](https://github.com/)
-* Taulukot
-* Tehtävälista
-* Koodilohkot
-* Otsikot
-* Lainauslohko
-* Vaakaerotin
+Tässä on myös koodia tekstin sisällä.
 
-### Tehtävälista
-
-* [x] Luo GitHub repository
-* [x] Luo `index.md`
-* [x] Käytä Markdownia
-* [x] Lisää linkki x86-emulaattoriin
-* [ ] Julkaise GitHub Pagesilla
-
-## Esimerkkikoodi
-
-```javascript
-console.log("x86-emulaattori käynnistyy!");
-```
-
----
+Lista
+GitHub Pages
+Markdown
+WebAssembly
+JavaScript
+x86-emulointi
+Järjestetty lista
+GitHub-repositorion luominen
+Markdown-sivun tekeminen
+GitHub Pagesin käyttöönotto
+x86-emulaattoriin tutustuminen
+Esimerkkikoodi
+console.log("Hei WebAssembly!");
+Hyödyllisiä linkkejä
+GitHub Pages
+WebAssembly
+v86 x86-emulaattori
+GitHub Markdown -ohje
 
 ## Yhteenveto
 
