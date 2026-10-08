@@ -78,5 +78,4 @@ Sivun sisältö on kirjoitettu Markdownilla, ja käytän tässä monia GitHub Fl
 
 Lisäksi esitellään **v86 x86-emulaattoria**, jota voi kokeilla selaimessa.
 
-**Extra Assignment E**
 
