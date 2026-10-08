@@ -74,9 +74,9 @@ console.log("Hei WebAssembly!");
 
 Tässä tehtävässä on tehty **julkinen staattinen verkkosivu GitHub Pagesilla**.
 
-Sivun sisältö on kirjoitettu Markdownilla, ja siinä käytetään useita GitHub Flavored Markdownin ominaisuuksia, kuten otsikoita, listoja, taulukkoa, linkkejä, koodilohkoa, lihavointia ja kursivointia.
+Sivun sisältö on kirjoitettu Markdownilla, ja käytän tässä monia GitHub Flavored Markdownin ominaisuuksia, kuten otsikoita, listoja, taulukkoa, linkkejä, koodilohkoa, lihavointia ja kursivointia.
 
-Lisäksi sivulla esitellään **v86 x86-emulaattoria**, jota voi kokeilla selaimessa.
+Lisäksi esitellään **v86 x86-emulaattoria**, jota voi kokeilla selaimessa.
 
 **Extra Assignment E**
 
