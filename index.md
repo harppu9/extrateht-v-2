@@ -60,10 +60,10 @@ console.log("x86-emulaattori käynnistyy!");
 
 ## Yhteenveto
 
-Tässä projektissa rakennetaan **julkinen GitHub Pages -verkkosivu**, jossa esitellään selaimessa toimivaa x86-emulaatiota.
+Tässä tehtävässä rakennetaan **julkinen GitHub Pages -verkkosivu**, jossa esitellään selaimessa toimivaa x86-emulaatiota.
 
 Varsinainen emulaattori löytyy v86:n sivulta:
 
 **[Kokeile v86-emulaattoria →](https://copy.sh/v86/)**
 
-🎉 **Extra assignment E**
+ **Extra assignment E**
