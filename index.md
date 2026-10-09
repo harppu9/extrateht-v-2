@@ -1,4 +1,4 @@
-# 🖥️ x86-emulaattori selaimessa
+# x86-emulaattori selaimessa
 
 ## Mikä on x86-emulaattori?
 
@@ -16,7 +16,7 @@ Sen avulla voidaan käynnistää erilaisia käyttöjärjestelmiä ja kokeilla ti
 
 ### Kokeile emulaattoria
 
-👉 **[Avaa v86-emulaattori](https://copy.sh/v86/)**
+**[Avaa v86-emulaattori](https://copy.sh/v86/)**
 
 ## Käytetyt teknologiat
 
